@@ -1,6 +1,6 @@
 # LATEST_NEWS_HEADLINES
 
-News headlines project demonstration video link - https://drive.google.com/file/d/1aKvEQRCnmRnEUGl9uL2w_Y3NCfu9UqEB/view?usp=drivesdk
+News headlines project demonstration video link - https://drive.google.com/file/d/1aa0Md4pA0QIzjzTnjxd6zj0nzGFtwAJ-/view?usp=drivesdk
 
 project member details  
 
@@ -12,5 +12,5 @@ B.Bharathi - https://g.dev/Bharathibharathi
 
 G.Pushpaanjali - https://g.dev/Pushpanjalianjali
 
-R.Pavithra - 
+R.Pavithra - https://g.dev/PavithraPavithra
 
